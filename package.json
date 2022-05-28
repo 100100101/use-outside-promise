@@ -1,0 +1,10 @@
+{
+  "name": "use-outside-promise",
+  "version": "1.0.0",
+  "description": "Create promise with methods 'resolve' and 'reject' for outside resolving/rejecting.",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
