@@ -1,10 +1,15 @@
 {
-  "name": "use-outside-promise",
-  "version": "1.0.0",
-  "description": "Create promise with methods 'resolve' and 'reject' for outside resolving/rejecting.",
-  "main": "index.ts",
-  "types": "index.d.ts",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+    "name": "use-outside-promise",
+    "version": "1.0.1",
+    "description": "Create promise with methods 'resolve' and 'reject' for outside resolving/rejecting.",
+    "main": "./index.js",
+    "types": "./lib/index.d.ts",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^18.14.0",
+        "typescript": "^4.9.5",
+        "package-auto-tsc": "git+https://github.com/JSerGit/package-auto-tsc.git"
+    }
 }
